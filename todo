@@ -1,0 +1,11 @@
+Find/build a C++ library that can access webcam footage
+-for Windows
+-for Mac OS
+-for Linux
+
+Find/build a C++ library that can access screen footage
+-for Windows
+-for Mac OS
+-for Linux
+
+Desing a cryptography scheme that will timestamp individual pixels of video footage using blockchain. Something like, use a cryptographic random number generator to generate a random number for each pixel in order, then hash the random number plus the pixel value. Then take a bunch of these hashes and hash their concatenation, which will be put into blockchain.
