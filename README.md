@@ -1,8 +1,8 @@
-The key idea
+**The key idea
 
 The key idea of the record-everything-now-and-let-open-source-algorithms-decide-in-a-few-years-economics.com framework, is that collecting evidence of everything that is happening, by video recording everything for example, is cheap. The technology already exists in our phone cameras and web cameras. Analyzing the recordings to determine how much should be paid to whom is expensive. But that is changing quickly. In 5 years, computation has become a lot cheaper, and intelligent algorithms have improved a lot. We will then be able to shift through all the data and pay accordingly.
 
-What
+**What
 
 money = evidence of useful work
 
@@ -67,7 +67,7 @@ Even if computers don’t become cheap enough, and we end up using humans, recor
 
 If information that doesn’t cost anything to distribute, will benefit someone, whose benefit won’t cause you harm, you should share the information.
 
-In practise
+**In practise
 
 How would you monetize, say, an educational video you made?
 
@@ -83,7 +83,7 @@ The random sample of people provide evidence of the usefulness of the video.
 
 The you-will-have-to-pay-for-this-work software platform will give people an easy way to record everything they do. While they’re going about their lives, the software will collect evidence that is useful in determining the usefulness of various information products. People can send evidence, that they approve, to the you-will-have-to-pay-for-this-work.com website, and get money in return.
 
-Why
+**Why
 
 Things that are about producing new useful information, are things like making movies, developing new medications and answering questions on question and answer sites. All of these things take hard work. The output of this work, is information that is highly valuable to a lot of people.
 
